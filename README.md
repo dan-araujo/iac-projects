@@ -8,3 +8,7 @@ Script para a criação de uma estrutura com usuários, diretórios e permissõe
 :desktop_computer: *apache-server-provisioning.sh*
 
 Script para o provisionamento de um Servidor Apache
+
+:file_folder::whale:  *docker-in-microservices*
+
+Utilizando Docker no cenário de microservices
